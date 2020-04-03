@@ -1,3 +1,16 @@
 h1 {
   color: red;
 }
+
+.invisible {
+  visibility: hidden;
+}
+
+.red {
+  color:red;
+  background-color: pink;
+}
+
+.huge{
+  font-size: 5rem;
+}
